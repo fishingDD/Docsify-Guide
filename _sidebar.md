@@ -5,5 +5,5 @@
   * [🏞️](/ProjectDocs/picsource_3.md)
   * [🤾](/ProjectDocs/picsource_1.md)
 * 🗒
-  * [Ⅰ 😈](/ProjectDocs/20230821.md)
-  * [Ⅱ 😈](/ProjectDocs/20230823.md)
+  * [Ⅰ](/ProjectDocs/20230821.md)
+  * [Ⅱ](/ProjectDocs/20230823.md)

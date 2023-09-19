@@ -1,6 +1,6 @@
 <!-- _coverpage.md -->
 
-# Passive_Blog
+# Passive
 
 > 我看都挺好
 
