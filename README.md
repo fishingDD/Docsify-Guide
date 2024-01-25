@@ -16,23 +16,23 @@
 <!--[![steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561198409632593/)-->
 
 
-## Technologies I Love
+## I Love
 * Moto
 * Game
 * Money
 
 <!--<img src = "https://camo.githubusercontent.com/326bf4b3be140c276753fadb8cf3d3d240bbcc6535e61b32849b0f72f62495fe/68747470733a2f2f36342e6d656469612e74756d626c722e636f6d2f65316631633937313233616532313765623733313530306535303265303038332f74756d626c725f6e39647863696b6d4955317163397a667a6f375f72315f3235302e676966">-->
 
-## Programming Languages
+## Languages
 <img src = 'https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white'/>
 <img src = 'https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white'/>
 <img src = 'https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white'/>
 <img src = 'https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white'/> 
 <img src=  'https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white'/> 
 <img src = 'https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white'/> 
-<img src = 'https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white'/><br>
+<img src = 'https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white'/>
  
- ## Technologies I Use
+ ## I Use
 <img src = 'https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white'/> 
 <img src = 'https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white'/> 
 <img src = 'https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white'/> 
@@ -41,7 +41,7 @@
 <img src = 'https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665'/> 
 <img src = 'https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white'/> 
 
- ## Who am I?
+ ## I am
  ```C
 char name[] = "pass1ve";
 struct WhatAmI
