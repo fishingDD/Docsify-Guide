@@ -30,15 +30,13 @@
 <img src = 'https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white'/> 
 <img src=  'https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white'/> 
 <img src = 'https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white'/> 
-<img src = 'https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white'/>
+<img src = 'https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white'/><br>
  
  ## Technologies I Use
 <img src = 'https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white'/> 
 <img src = 'https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white'/> 
-
 <img src = 'https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white'/> 
 <img src = 'https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white'/> 
-
 <img src = 'https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black'/>  
 <img src = 'https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665'/> 
 <img src = 'https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white'/> 
