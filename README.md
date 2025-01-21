@@ -1,8 +1,8 @@
-# Pass1ve
+# puttyW
 <img src="https://www.freeimg.cn/i/2024/01/23/65af7a130a954.jpg" width="150" height="150">
 
 
-## Hey, [Pass1ve here!](https://space.bilibili.com/30767477)  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
+## Hey, [puttyW here!](https://space.bilibili.com/30767477)  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
 
 <h1>先祝你每天开心..</h1> 
 
@@ -44,7 +44,7 @@
 
  ## I am
  ```C
-char name[] = "pass1ve";
+char name[] = "puttyW";
 struct WhatAmI
 {
   char *poor;
